@@ -54,10 +54,3 @@
 - Люблю разбирать чужой код и улучшать свой
 
 [![Codewars Badge](https://www.codewars.com/users/LordMontroz/badges/small)](https://www.codewars.com/users/LordMontroz)
-
----
-
-**Контакты:**  
-[✉️ Почта](mailto:rbagandaliev@yandex.ru) <br>
-[Telegram](https://t.me/montroz)
-

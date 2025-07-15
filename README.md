@@ -1,24 +1,63 @@
-# Привет 👋 меня зовут Расул
+<div id="header">
+  <h1>Привет! Меня зовут Расул</h1>
+  <p>Я начинающий фронтенд-разработчик. Люблю веб, учусь и развиваюсь в профессии каждый день.</p>
+</div>
 
-## Frontend developer
+---
 
-Я Frontend-разработчик с опытом управления проектами в сфере веб-разработки. Моя карьера началась с управления контентом и проектами в e-commerce. Параллельно я сосредоточился на развитии навыков frontend-разработки. Освоил технологии React, Redux, Redux Toolkit, TypeScript и верстал проекты с применением современных подходов. Мне важно создавать удобные и продуманные интерфейсы, ориентированные на лучший пользовательский опыт (UX).
+### Немного обо мне
 
-Мой стек:
+- Получил высшее образование по направлению "Информационные системы и технологии" в СПбПУ Петра Великого
+- После вуза прошёл курс "Фронтенд-разработчик" в Яндекс Практикуме и продолжаю развиваться в веб-разработке
+- Первые проекты на JavaScript и React начал делать в 2023 году
+- Хочу вырасти до уровня Middle в ближайшие 2-3 года
+- Интересуюсь современными веб-технологиями, читаю документацию и решаю задачи
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
+
+### Технологии, которые знаю и использую
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width="40" height="40" alt="webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-plain.svg" width="40" height="40" alt="vite"/>
+</div>
+
+---
+
+### Мои проекты
+
+#### 1. Интерактивная платформа "Место"
+
+"Место" представляет собой интерактивную платформу, где пользователи имеют возможность размещать свои фотографии и ставить лайки понравившимся изображениям.
+
+[Посмотреть](https://lordmontroz.github.io/mesto-project-ff/)  
+Стек: Flexbox, CSS Grid, CSS-анимации, BEM, BEM Nested, <br> JavaScript (ООП, async/await, DOM, Fetch API), клиентская валидация форм, адаптивная верстка, Webpack
+
+#### 2. Онлайн-платформа "Веб-Ларек"
+"Веб-Ларек" представляет собой онлайн-платформу для покупки товаров из каталога. Пользователи могут просматривать ассортимент, выбирать понравившиеся товары и добавлять их в корзину.
+После этого они могут ввести свои данные для доставки и оформить покупку.
+
+[Посмотреть](https://lordmontroz.github.io/web-larek-frontend/)  
+Стек: HTML, SCSS, TS, Webpack
+
+---
+
+### Еще факты обо мне
+
+- Решаю задачи на [Codewars](https://www.codewars.com/users/LordMontroz)
+- Люблю разбирать чужой код и улучшать свой
+
+[![Codewars Badge](https://www.codewars.com/users/LordMontroz/badges/small)](https://www.codewars.com/users/LordMontroz)
+
+---
+
+**Контакты:**  
+[✉️ Почта](mailto:rbagandaliev@yandex.ru) <br>
+[Telegram](https://t.me/montroz)
+
